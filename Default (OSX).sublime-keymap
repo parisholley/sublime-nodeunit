@@ -1,0 +1,13 @@
+[
+    {
+        "command": "node_unit",
+        "keys": ["command+shift+r"],
+	"context": [
+		{
+			"key": "selector",
+			"operator": "equal",
+			"operand": "source.js"
+		}
+	]
+    }
+]
